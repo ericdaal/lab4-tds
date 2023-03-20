@@ -1,0 +1,16 @@
+{
+  "name": "ugly-leadership-institute-wydf9",
+  "productName": "ugly-leadership-institute-wydf9",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Erick Alvarado",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "23.1.1"
+  }
+}
